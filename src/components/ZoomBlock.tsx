@@ -1,6 +1,6 @@
 
 import React from "react";
-import { ZoomBlock } from "../context/ZoomContext";
+import { ZoomBlock } from "../types";
 
 interface ZoomEditorProps {
   block: ZoomBlock;
