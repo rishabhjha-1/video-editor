@@ -1,0 +1,33 @@
+.app {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.timeline {
+  position: relative;
+  height: 20px;
+  background: #ddd;
+  margin: 10px 0;
+}
+
+.progress {
+  position: absolute;
+  height: 100%;
+  background: blue;
+}
+
+.zoom-block {
+  position: absolute;
+  height: 100%;
+  background: rgba(0, 255, 0, 0.5);
+  cursor: pointer;
+}
+
+.editor {
+  margin-top: 20px;
+}
+
+.editor label {
+  display: block;
+  margin: 10px 0;
+}
